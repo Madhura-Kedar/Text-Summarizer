@@ -1,10 +1,10 @@
-# 📝 Text Summarizer using HuggingFace T5 & FastAPI
+#  Text Summarizer using HuggingFace T5 & FastAPI
 
 An end-to-end, transformer-based text summarization web application built with **FastAPI**, **HuggingFace Transformers (T5)**, and a **modern Glassmorphism UI**.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Transformer-Powered Summarization:** Fine-tuned T5 conditional generation model capable of synthesizing conversations, dialogues, and paragraphs.
 - **Beam Search Decoding:** Utilizes 5 beams, length penalties, and n-gram repetition blocking for natural, coherent summaries.
@@ -17,7 +17,7 @@ An end-to-end, transformer-based text summarization web application built with *
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 TextSummarizer/
@@ -36,7 +36,7 @@ TextSummarizer/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 
@@ -73,7 +73,7 @@ http://localhost:8000
 
 ---
 
-## 🛠️ API Reference
+##  API Reference
 
 ### `POST /summarize/`
 
@@ -93,8 +93,5 @@ Takes raw dialogue/text input and returns an abstractive summary.
 }
 ```
 
----
 
-## 👤 Author
 
-- **Madhura Kedar** — [GitHub Profile](https://github.com/Madhura-Kedar)
