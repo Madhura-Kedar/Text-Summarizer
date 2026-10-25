@@ -3,7 +3,7 @@
 An end-to-end, transformer-based text summarization web application built with **FastAPI**, **HuggingFace Transformers (T5)**, and a **modern Glassmorphism UI**.
 
 ---
-
+https://text-summarizer-hwvg.onrender.com
 ##  Features
 
 - **Transformer-Powered Summarization:** Fine-tuned T5 conditional generation model capable of synthesizing conversations, dialogues, and paragraphs.
